@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&display=swap');
+
+html, body, * {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.my-nav {
+    background-color: #ffffff;
+    min-height: 75px;
+    font-size: 18px;
+}
+
+.navbar-brand {
+    font-size: 2.5em;
+    font-weight: 800;
+    letter-spacing: 5px;
+}
+
+.mybg {
+    background-image: url("./assets/background.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 625px;
+}
+
+.p {
+    font-size: 30px;
+}
+
+.subtitle {
+    font-weight: 500;
+    font-size: 1.5em;
+    letter-spacing: 5px;
+    line-height: 1em;
+}
+
+.subdescription {
+    color: black;
+    font-weight: 300;
+    font-size: 1em;
+    letter-spacing: 1px;
+}
